@@ -1,7 +1,7 @@
-Super Mario Bros - Nivel 1
+Super Dani Bros - Nivel 1
 =============
 
-Juego creado en Python usando Pygame con la intención de recrear el primer nivel de Super Mario Bros.
+Juego re-editado de la fuente original. Creado en Python usando Pygame con la intención de recrear el primer nivel de Super Mario Bros.
 
 ![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
 
@@ -23,6 +23,4 @@ Para instalar las dependencias para Python 2.x:
 
 	pip install -r requirements.txt
 
-## Trabajo futuro
 
-Este repositorio será utilizado para mostrar el juego en el canal de [YouTube](http://youtube.com/user/ivantraceur8). Además también se pretende realizar algunas modificaciones en él sobre todo para traducir algunas partes del código y hacer modificaciones básicas sobre las mecánicas del juego.
